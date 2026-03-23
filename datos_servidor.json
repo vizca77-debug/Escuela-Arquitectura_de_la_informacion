@@ -1,0 +1,7 @@
+[
+{ "timestamp":"2026-03-01T10:00:00","cpu":35,"memoria":60,"usuarios":120 },
+{ "timestamp":"2026-03-01T10:05:00","cpu":40,"memoria":62,"usuarios":130 },
+{ "timestamp":"2026-03-01T10:10:00","cpu":50,"memoria":68,"usuarios":150 },
+{ "timestamp":"2026-03-01T10:15:00","cpu":45,"memoria":65,"usuarios":140 },
+{ "timestamp":"2026-03-01T10:20:00","cpu":60,"memoria":72,"usuarios":170 }
+]
